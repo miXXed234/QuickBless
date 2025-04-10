@@ -13,7 +13,7 @@ Instead of going through the in-game interaction menu, this mod enables a much f
 ## Installation:
 
 1. Download and extract the mod zip file.
-2. Place the `QuickBless.dll` into the `BepInEx\plugins` folder of your **Cult of the Lamb** installation directory.
+2. Place the `BlessAllMod.dll` into the `BepInEx\plugins` folder of your **Cult of the Lamb** installation directory.
 3. Configure your in-game **B key** in the controls settings if it is already bound to another function.
 4. Start the game, and when you press the **B key**, all nearby followers will receive a blessing.
 
