@@ -1,0 +1,13 @@
+{
+  "name": "QuickBless",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/miXXed234/QuickBless",
+  "description": "A mod that allows you to bless all followers with a single press of a button.",
+  "dependencies": {
+    "BepInEx": "5.4.9",
+    "0Harmony": "2.0.4"
+  },
+  "author": "miXXed234",
+  "icon_url": "icon.png",
+  "download_url": "https://github.com/miXXed234/QuickBless/releases/download/v1.0.0/QuickBless.zip"
+}
