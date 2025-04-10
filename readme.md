@@ -18,7 +18,7 @@ Instead of going through the in-game interaction menu, this mod enables a much f
 4. Start the game, and when you press the **B key**, all nearby followers will receive a blessing.
 
 ## Uninstallation:
-1. To remove the mod, simply delete the `QuickBless.dll` from the `BepInEx\plugins` folder.
+1. To remove the mod, simply delete the `BlessAllMod.dll` from the `BepInEx\plugins` folder.
 2. Restart the game, and the mod will no longer be active.
 
 ## Author: miXXed234
